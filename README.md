@@ -1,5 +1,5 @@
 # bugger
-![alt text](https://raw.githubusercontent.com/shivam1410/bugger/master/images/bugger128.png)
+![alt text](https://raw.githubusercontent.com/shivam1410/chrome-extension-bugger/master/images/bugger128.png)
 
 ## To add the Extension manually 
 1. Unzip the file after cloning or Downloading the Repository
@@ -15,4 +15,4 @@
 4. Now you can see the list for total no. of issues for every label  and total no. of issues assigned to each assignee.
 
 ## ScreenShots
-![alt text](https://raw.githubusercontent.com/shivam1410/bugger/master/images/screenshot.png)
+![alt text](https://raw.githubusercontent.com/shivam1410/chrome-extension-bugger/master/images/screenshot.png)
