@@ -1,4 +1,4 @@
-# bugger
+# Bugger
 ![alt text](https://raw.githubusercontent.com/shivam1410/chrome-extension-bugger/master/images/bugger128.png)
 
 ## To add the Extension manually 
