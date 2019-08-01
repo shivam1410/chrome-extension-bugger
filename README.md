@@ -3,10 +3,10 @@
 
 ## About
 -chrome extension to show issues and assignes on github repo issues page.&nbsp;
--By clicking on the extension icon on top bar of browser, it will ask you to autherise extension.&nbsp;
-and ta-da, you will see two nicely boxed tables, that will be showing all the labels, and assignees for perticular repository.
--you can then navigate to list of all the issues which have perticular Label, by simply clicking on it.&nbsp;
--you can also view all the issues assigned to perticular assignee, that too by simply clicking on assignee name,&nbsp;
+-By clicking on the extension icon on top bar of browser, it will ask you to autherise extension.<br/>
+and ta-da, you will see two nicely boxed tables, that will be showing all the labels, and assignees for perticular repository.<br/>
+-you can then navigate to list of all the issues which have perticular Label, by simply clicking on it.<br/>
+-you can also view all the issues assigned to perticular assignee, that too by simply clicking on assignee name.<br/>
 
 ## To add the Extension manually 
 1. Unzip the file after cloning or Downloading the Repository
