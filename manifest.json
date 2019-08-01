@@ -1,0 +1,55 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Bugger",
+  "description": "Count the Bugs and Issues",
+  "permissions": [
+    "declarativeContent",
+    "tabs",
+    "activeTab",
+    "storage",
+    "history",
+    "*://github.com/*",
+    "contextMenus",
+    "identity",
+    "https://github.com/login/oauth/access_token/*",
+    "webNavigation"
+  ],
+
+  "icons": {
+    "128": "images/bugger128.png",
+    "32": "images/bugger32.png",
+    "48": "images/bugger48.png",
+    "16": "images/bugger16.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  
+  "page_action": {
+    "default_icon" : "images/bugger16.png",
+    "default_title": "bug count",
+    "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "js": [ "robot.js" ],
+      "matches": [ "https://github.com/robots.txt*" ],
+      "run_at": "document_end"
+    },
+    {
+    "matches": [
+        "*://github.com/*"
+      ],
+      "js": [
+        "jquery.js",
+        "cred.js",
+        "index.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }]
+}
