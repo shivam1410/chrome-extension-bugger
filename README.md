@@ -2,7 +2,7 @@
 ![alt text](https://raw.githubusercontent.com/shivam1410/chrome-extension-bugger/master/images/bugger128.png)
 
 ## About
--chrome extension to show issues and assignes on github repo issues page.&nbsp;
+-chrome extension to show issues and assignes on github repo issues page.<br/>
 -By clicking on the extension icon on top bar of browser, it will ask you to autherise extension.<br/>
 and ta-da, you will see two nicely boxed tables, that will be showing all the labels, and assignees for perticular repository.<br/>
 -you can then navigate to list of all the issues which have perticular Label, by simply clicking on it.<br/>
