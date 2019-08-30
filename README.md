@@ -1,5 +1,5 @@
 # Bugger
-![alt text](https://raw.githubusercontent.com/shivam1410/chrome-extension-bugger/master/images/bugger128.png)
+![alt text](https://raw.githubusercontent.com/shivam1410/chrome-extension-bugger/master/images/bugger48.png)
 
 ## About
 - Chrome extension to show issues and assignees on github repo issues page.<br/>
